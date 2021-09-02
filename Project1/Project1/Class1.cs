@@ -12,5 +12,11 @@ namespace Project1
         {
 
         }
+
+        public void tetdata(int orderid)
+        {
+            Console.WriteLine(true);
+
+        }
     }
 }
